@@ -1,4 +1,4 @@
-#When program has been downloaded, write npm install to the terminal and then npm start
+# When program has been downloaded, write npm install to the terminal and then npm start
 
 # Getting Started with Create React App
 
